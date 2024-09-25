@@ -15,17 +15,14 @@
   padding: 12px;
 }
 .logo-title-container-card {
-  /* border: 1px solid white; */
   display: flex;
-  /* align-items: center; */
   gap: 10px;
 }
 .company-logo-card {
   width: 70px;
   height: 70px;
 }
-.title-rating-container-card {
-}
+
 .job-title-card {
   margin: 0;
   color: #f8fafc;
@@ -35,7 +32,6 @@
   margin-bottom: 10px;
 }
 .rating-container-card {
-  /* border: 1px solid white; */
   display: flex;
   align-items: center;
   gap: 8px;
@@ -53,7 +49,6 @@
   font-weight: 400;
 }
 .location-package-container-card {
-  /* border: 1px solid white; */
   display: flex;
   align-items: center;
   gap: 18px;
